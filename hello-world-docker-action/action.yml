@@ -1,0 +1,10 @@
+name: Hello Word Docker Action
+description: This action tells , "Hello"
+inputs:
+  who-to-greet:
+    description: Who to greet
+    required: true
+    default: World
+
+outputs:
+
